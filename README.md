@@ -7,9 +7,8 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... Something Interesting
-- 👯 I Love to do: ... Coding
+- 👯 I Love to do: ... Coding & Traveling
 - 🤔 I’m looking for help with ...
-- 💬 Phone ... +8801681505522
 - 📫 Email: ... shohas563@gmail.com
-- 😄 LinkedIn: ... https://www.linkedin.com/in/abdul-hannan9229/
+- 😄 LinkedIn: ...https://www.linkedin.com/in/abdul-hannan-web/
 - ⚡ Fun fact: ...
